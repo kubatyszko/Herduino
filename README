@@ -1,4 +1,4 @@
-This is first working version of my Herduino - which is an Arduino-inspired, ATMega 168 based IR receiver - controlling up to 3 physical 110V/220V devices.
+This is the first working version of my Herduino - which is an Arduino-inspired, ATMega 168 based IR receiver - controlling up to 3 physical 110V/220V devices.
 
 Portions of IR library were taken from this website: http://www.arduino.cc/cgi-bin/yabb2/YaBB.pl?num=1176098434/15
 
